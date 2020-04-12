@@ -1,0 +1,8 @@
+
+Step to order a pizza
+
+1 Go to website
+2 select pizza
+3 order
+
+Thank you
